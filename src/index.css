@@ -1,0 +1,31 @@
+#container {
+  display: flex;
+  background-color: white;
+  height: 100%;
+  width: 100%;
+}
+
+.category__container {
+  width: 350px;
+  margin: 0 30px;
+}
+
+.category__name {
+  font-weight: bold;
+  padding: 0 20px;
+}
+
+.category__tags {
+  background-color: #f7f8fa;
+  padding: 20px;
+  width: 100%;
+}
+
+.tag {
+  height: 45px;
+  display: flex;
+  align-items: center;
+  padding: 15px;
+  background-color: white;
+  margin: 15px 0;
+}
