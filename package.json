@@ -1,0 +1,19 @@
+{
+  "name": "kanban-board-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "@types/faker": "5.1.4",
+    "faker": "5.1.0",
+    "snabbdom": "2.1.0"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.6.1"
+  },
+  "keywords": []
+}
